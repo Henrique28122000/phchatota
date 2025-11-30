@@ -1,0 +1,11 @@
+{
+  "version": "1.0.5",
+  "title": "Nova atualização disponível!",
+  "changelog": [
+    "🔥 Melhorias no desempenho",
+    "🎤 Novo gravador de áudio",
+    "📸 Correção no envio de fotos",
+    "⚡ App mais rápido e estável"
+  ],
+  "apk_url": "https://seuservidor.com/phchat-v105.apk"
+}
